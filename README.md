@@ -11,7 +11,11 @@ I used  www3school ,visual studio code to writte some code and styling it .chrom
 Uwamahoro agnes
 
 ####Technology used
-css,javascript,html
+HTML
+CSS
+Bootstrap
+JQuery
+
 
 ####license
 
@@ -23,3 +27,7 @@ this project is protected under terms of MIT license
 ####link to live site on GitHub page
 https://github.com/agnesuwamahoro/QUIZ-BOARD
 
+####BDD
+Once you choise all correct enswers you will get 100%
+if you miss one you will get 80%
+every question has three enswers you have to chose one
