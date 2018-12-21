@@ -1,12 +1,12 @@
 
-unction mytest()
+function mytest()
 {
-var q1=document.forms["myform"]["flavor1"].value;
-var q2=document.forms["myform"]["flavor2"].value;
+var q1=document.forms["myform"]["succes"].value;
+var q2=document.forms["myform"]["agnes"].value;
 var q3=document.forms["myform"]["flavor3"].value;
 var q4=document.forms["myform"]["flavor4"].value;
 var q5=document.forms["myform"]["flavor5"].value;
-
+var q5=document.forms["myform"]["flavor5"].value;
 
 var marks=0;
 if(q1=="All of the above.")
