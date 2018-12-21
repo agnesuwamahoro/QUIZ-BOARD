@@ -1,6 +1,7 @@
 .asset{
     display: inline;
 }
-li{
-    border :20px;
+
+body{
+    background-color: bisque;
 }
