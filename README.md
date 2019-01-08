@@ -11,10 +11,10 @@ I used  www3school ,visual studio code to writte some code and styling it .chrom
 Uwamahoro agnes
 
 ####Technology used
-HTML
-CSS
-Bootstrap
-JQuery
+.HTML
+.CSS
+.Bootstrap
+.JQuery
 
 
 ####license
@@ -29,5 +29,5 @@ https://github.com/agnesuwamahoro/QUIZ-BOARD
 
 ####BDD
 Once you choise all correct enswers you will get 100%
-if you miss one you will get 80%
+if you miss one you will get 80% and when you do only one question you will have 20%
 every question has three enswers you have to chose one
